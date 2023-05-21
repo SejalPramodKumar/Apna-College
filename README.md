@@ -1,2 +1,0 @@
-# Apna-College
-Java+DSA
